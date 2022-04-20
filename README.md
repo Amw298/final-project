@@ -13,6 +13,9 @@ Description and links to the datasets used:
 
 What is the best neighborhood based on general cost of living?
 
+Housing value
+https://data.wprdc.org/dataset/pgh/resource/9890875b-c1d1-4e64-8fc9-a4a8dc433745
+
 What neighborhood is cheapest to park?
 https://data.wprdc.org/dataset/pittsburgh-parking-meters-and-payment-points/resource/aefaf190-7f4c-4466-a28b-1b7ce039419d
 
